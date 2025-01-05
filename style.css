@@ -8,3 +8,11 @@ body{
     background-color: rgb(17, 17, 80);
     color: #fff;
 }
+.header {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
